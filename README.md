@@ -6,5 +6,3 @@ Databases have been the central core of any information system for many years. A
 - Relational algebra and the SQL language
 - Relational schema design
 - Data integrity and consistency. etc.
-
-Translated with www.DeepL.com/Translator (free version)
